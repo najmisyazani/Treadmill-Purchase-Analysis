@@ -1,6 +1,9 @@
 ## Project objective:
 To analyze customer profiles and purchasing behavior for AeroFit's three treadmill models (KP281, KP481, KP781) to inform targeted marketing strategies.
 
+### Overview of Python Writeup:
+[](!https://github.com/najmisyazani/Treadmill-Purchase-Analysis/blob/main/Overview%20of%20Python%20Writeup.png)
+
 ### Technical summary:
 - **Data Preparation:** Imported the dataset, performed initial exploratory data analysis by checking data types, missing values, and duplicates. Converted categorical variables to appropriate data types and examined the distribution of variables using descriptive statistics.
 - **Univariate Analysis:** Conducted in-depth univariate analysis on both numerical and categorical variables using various visualization techniques such as distribution plots, count plots, and box plots to understand the individual characteristics of each variable.
