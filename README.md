@@ -12,6 +12,7 @@ To analyze customer profiles and purchasing behavior for AeroFit's three treadmi
   - "AgeGroup" and "AgeCategory" from the Age variable
   - "IncomeCategory" from the Income variable
 - **Probability Analysis:** Calculated marginal and conditional probabilities for various scenarios. Used crosstabs to create contingency tables for different variable combinations.
+- **Data Analysis with SQL:** Aggregated data across multiple dimensions to provide a comprehensive view of the customer profile. Used window functions to facilitate ranking and percentage calculations.
 
 ### Actionable Insights:
 - Model KP281 is the best-selling product. 44.0% of all treadmill sales go to model KP281.
