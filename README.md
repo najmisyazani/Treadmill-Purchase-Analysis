@@ -1,4 +1,4 @@
-## Project objective:
+## Project Objective:
 To analyze customer profiles and purchasing behavior for AeroFit's three treadmill models (KP281, KP481, KP781) to inform targeted marketing strategies.
 
 ### Overview of Python Writeup:
