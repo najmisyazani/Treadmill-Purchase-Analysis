@@ -1,6 +1,19 @@
 ## Project Objective
 To analyze customer profiles and purchasing behavior for AeroFit's three treadmill models (KP281, KP481, KP781) to inform targeted marketing strategies.
 
+## Key Metrics
+- **Distribution of Product Variant Purchases (North Star Metric)**
+
+**Definition:** This metric measures the percentage of each treadmill model sold in relation to the total sales. 
+
+**Explanation:** It is a crucial metric because it directly reflects customer preferences across different customer segments. Understanding which models are more popular with specific customer demographics (such as age, income, fitness level, or geographic location) can help AeroFit tailor its marketing strategies and product offerings to better meet the needs of its customers. The higher the percentage for a particular model among a target group, the more aligned AeroFit’s products are with that group’s preferences.
+
+- **Customer Demographic Profile for Each Treadmill Model**
+
+**Definition:** This metric involves analyzing and categorizing customers based on demographics such as age, gender, income, location, and fitness goals. 
+
+**Explanation:** By understanding these characteristics, AeroFit can identify distinct customer profiles for each treadmill model, allowing for more targeted marketing efforts. For example, if a particular model is more popular among younger, urban customers with higher incomes, AeroFit can focus its marketing efforts on this demographic to boost sales for that model.
+
 ## Overview of Python Writeup
 ![](https://github.com/najmisyazani/Treadmill-Purchase-Analysis/blob/main/Overview%20of%20Python%20Writeup.png)
 
