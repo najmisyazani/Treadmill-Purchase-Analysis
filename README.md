@@ -15,7 +15,7 @@ To analyze customer profiles and purchasing behavior for AeroFit's three treadmi
 **Explanation:** By understanding these characteristics, AeroFit can identify distinct customer profiles for each treadmill model, allowing for more targeted marketing efforts. For example, if a particular model is more popular among younger, urban customers with higher incomes, AeroFit can focus its marketing efforts on this demographic to boost sales for that model.
 
 ## Dashboard Overview
-![]()
+![](https://github.com/najmisyazani/Treadmill-Purchase-Analysis/blob/main/Treadmill%20Customer%20Profile%20Analysis%20Excel%20Dashboard.png)
 
 ## Overview of Python Writeup
 ![](https://github.com/najmisyazani/Treadmill-Purchase-Analysis/blob/main/Overview%20of%20Python%20Writeup.png)
