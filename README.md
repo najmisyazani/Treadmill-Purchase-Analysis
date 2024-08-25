@@ -8,6 +8,9 @@ To analyze customer profiles and purchasing behavior for AeroFit's three treadmi
 
 **Explanation:** It is a crucial metric because it directly reflects customer preferences across different customer segments. Understanding which models are more popular with specific customer demographics (such as age, income, fitness level, or geographic location) can help AeroFit tailor its marketing strategies and product offerings to better meet the needs of its customers. The higher the percentage for a particular model among a target group, the more aligned AeroFit’s products are with that group’s preferences.
 
+## Dashboard Overview
+![]()
+
 - **Customer Demographic Profile for Each Treadmill Model**
 
 **Definition:** This metric involves analyzing and categorizing customers based on demographics such as age, gender, income, location, and fitness goals. 
